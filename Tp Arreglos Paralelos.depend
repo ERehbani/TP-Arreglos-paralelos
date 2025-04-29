@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1745937951 source:c:\users\usuario\desktop\tp arreglos paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
